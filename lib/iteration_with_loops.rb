@@ -13,6 +13,7 @@ def join_nested_strings(src)
       end
       j+=1 
     end 
+    i+=1 
   end
   puts newArr
 end
